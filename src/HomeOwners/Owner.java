@@ -13,17 +13,17 @@ public class Owner {
     }
 
     public void addNumberOfOwners(Owner[] owners) {
-        for (Owner i: owners) {
-            if (this.equals(i)) {
-                System.out.println("The owner named " + this.name + ", aged " + this.age + " already exists in the database.");
-                return;
-            }
-        }
         for (int i = 0; i < owners.length; i++) {
-            if (owners[i] == null) {
+            if (this.equals(owners[i])) {
+                System.out.println("The owner named " + this.name + ", aged " + this.age + " already exists in the database.");
+                break;
+            } else if (owners[i] == null) {
                 owners[i] = this;
+                numberOfOwners++;
+                break;
             }
         }
+
         // TODO Check if the current owner(this) already exists in owners list. If it does not exist, add it in the array and increase
         // the number of owners. If it exists do nothing
     }

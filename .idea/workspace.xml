@@ -5,46 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/AnotherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/BirdDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/Egg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/TestInstanceBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/VariableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/VariableScopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/WaterClassImports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/aquarium/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/TestInstance/aquarium/jellies/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221001/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221001/employee/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221001/triunghi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221001/triunghi/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221012/GarbageCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221012/GarbageCollector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/hW221012/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseSomething/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseSomething/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseSomething/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseSomething/Kitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseSomething/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseSomething/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableChanges/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableChanges/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Mentoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Mentoring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/NCPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/hW220930/NCPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/courseExercises/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CourseExercises/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/courseExercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CourseExercises/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jocClase/Clasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JocClase/Clasa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jocClase/Elev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JocClase/Elev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jocClase/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JocClase/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeOwners/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeOwners/Owner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

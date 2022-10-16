@@ -27,7 +27,7 @@ public class Main {
 
 
         Owner owner4 = new Owner("Petru",35);
-        owner4.addNumberOfOwners(owners);
+        owner4.addNumberOfOwners(owners); //exista deja, nu se adauga
 
         Owner owner5 = new Owner("Diana",18);
         owner5.addNumberOfOwners(owners);
