@@ -1,4 +1,4 @@
-package courseExercises;
+package CourseExercises;
 
 
 public class Main {

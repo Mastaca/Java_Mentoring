@@ -7,11 +7,14 @@ public class NCPlayer {
     public int secondBiggestNumber;
 
     public void findTwoBiggestNumber () {
-        /*for (int i = 0; i < numberList.length; i++) {
-            if (numberList[i] > twoBiggestNumbers[0]) {
-                if (numberList[0] > numberList[1]) numberList[1] = numberList[i];
-                twoBiggestNumbers[0] = numberList[i];
-            }*/
+        for (int number : this.numbers) {
+            if (number > this.biggestNumber) {
+                if (this.biggestNumber > this.secondBiggestNumber) {
+                    this.secondBiggestNumber = this.biggestNumber;
+                }
+                this.biggestNumber = number;
+            }
+        }
     }
 
 }

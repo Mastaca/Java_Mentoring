@@ -1,4 +1,4 @@
-package jocClase;
+package JocClase;
 
 public class Elev {
     public String nume;

@@ -1,4 +1,4 @@
-package jocClase;
+package JocClase;
 
 import java.util.Scanner;
 
