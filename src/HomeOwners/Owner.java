@@ -2,10 +2,9 @@ package HomeOwners;
 
 public class Owner {
 
+    public static int numberOfOwners;
     public String name;
     public int age;
-
-    public static int numberOfOwners;
 
     public Owner(String name, int age) {
         this.name = name;
@@ -30,12 +29,15 @@ public class Owner {
 
     @Override
     public boolean equals(Object obj) {
-        if(obj instanceof Owner) {
+        if (obj instanceof Owner) {
             Owner otherOwner = (Owner) obj;
-            if(this.name.equals(otherOwner.name) && this.age == otherOwner.age) {
-                return true;
-            }
+            return this.name.equals(otherOwner.name) && this.age == otherOwner.age;
         }
         return false;
+    }
+
+    @Override
+    public String toString() {
+        return this.name;
     }
 }

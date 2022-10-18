@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="" />
+    <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeOwners/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeOwners/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeOwners/Owner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,65 +54,13 @@
       <recent name="Homeworks.TestInstance.aquarium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BirdDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.TestInstance.BirdDisplay" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeOwners.Main" />
       <module name="Java_Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homeworks.TestInstance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Egg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.TestInstance.Egg" />
-      <module name="Java_Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homeworks.TestInstance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.hW221012.Test" />
-      <module name="Java_Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homeworks.hW221012.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.TestInstance.VariableMain" />
-      <module name="Java_Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homeworks.TestInstance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaterClassImports" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.TestInstance.WaterClassImports" />
-      <module name="Java_Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homeworks.TestInstance.*" />
+          <option name="PATTERN" value="HomeOwners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BirdDisplay" />
-        <item itemvalue="Application.WaterClassImports" />
-        <item itemvalue="Application.VariableMain" />
-        <item itemvalue="Application.Egg" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

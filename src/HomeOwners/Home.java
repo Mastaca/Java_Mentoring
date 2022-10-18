@@ -2,6 +2,7 @@ package HomeOwners;
 
 public class Home {
 
+    public static int numberOfHomes;
     public String name;
     public String address;
     public Owner owner;
@@ -18,7 +19,5 @@ public class Home {
         this.kitchen = kitchen;
         numberOfHomes++;
     }
-
-    public static int numberOfHomes;
 
 }
