@@ -26,7 +26,6 @@ public class Main {
         Kitchen kitchen3 = new Kitchen(23, 2, 4);
         Home home3 = new Home("Home3", "Bacau,12", owner3, entranceDoor3, bedroom3, kitchen3);
 
-
         Owner owner4 = new Owner("Petru", 35);
         owner4.addNumberOfOwners(owners); //exista deja, nu se adauga
 
@@ -48,5 +47,27 @@ public class Main {
         System.out.println(Owner.numberOfOwners);
     }
 
+    /*public static void main(String[] args) {
+
+        Owner[] owners = new Owner[10];
+        Owner owner1 = new Owner("Edi",30);
+
+        Owner owner2 = new Owner("Stefan",31);
+        owner2.addNumberOfOwners(owners);
+
+        Owner owner3 = new Owner("Petru",35);
+        owner3.addNumberOfOwners(owners);
+
+        Owner owner4 = new Owner("Petru",35);
+        owner4.addNumberOfOwners(owners);
+
+        Owner owner5 = new Owner("Diana",18);
+        owner5.addNumberOfOwners(owners);
+
+        Owner owner6 =owner5;
+        owner6.addNumberOfOwners(owners);
+
+        System.out.println(Owner.numberOfOwners);
+    }*/
 
 }
