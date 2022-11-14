@@ -5,72 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter2/operatorsAndStatements/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter2/reviewQuestions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/JavaDateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/StringBuilderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChainingExample/Ethnicity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChainingExample/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChainingExample/HomoSapiens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChainingExample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChainingExample/Primates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/methods/returnTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/duck/GooseWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/goose/Goose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/goose/Gosling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/inland/BirdWatcherFromAfar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/shore/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/shore/BirdWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/swan/Swan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CourseExercises/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/courseExercises/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CourseExercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/courseExercises/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuelGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duelGame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuelGame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duelGame/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuelGame/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duelGame/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeOwners/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeOwners/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeOwners/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Kitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeOwners/Kitchen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeOwners/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeOwners/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeOwners/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/Tema_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/Tema_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/AnotherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/AnotherClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/BirdDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/BirdDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/Egg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/TestInstanceBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/TestInstanceBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/VariableMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/VariableMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/VariableScopes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/VariableScopes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/WaterClassImports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/WaterClassImports.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/aquarium/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/aquarium/Water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/TestInstance/aquarium/jellies/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/TestInstance/aquarium/jellies/Water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220921.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220921.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/ConsecutiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/LargestGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/LargestGap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/NCMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/NCMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/NCPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/NCPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/NumberedCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/NumberedCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/RecursionPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/RecursionPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW220930/SevenBoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW220930/SevenBoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221001/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221001/employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221001/employee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221001/employee/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221001/triunghi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221001/triunghi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221001/triunghi/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221001/triunghi/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221012/GarbageCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221012/GarbageCollector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221012/GarbageCollector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221012/GarbageCollector2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/hW221012/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/hW221012/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JocClase/Clasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jocClase/Clasa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JocClase/Elev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jocClase/Elev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JocClase/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jocClase/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/School/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/School/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/school/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticTacToe/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticTacToe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticTacToe/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariableChanges/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variableChanges/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariableChanges/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variableChanges/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +67,7 @@
       <recent name="Homeworks.TestInstance.aquarium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.javaArrayList">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bookProjects.chapter3.Exercise" />
       <module name="Java_Mentoring" />
@@ -190,9 +135,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaArrayList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaDateAndTime" />
-        <item itemvalue="Application.javaArrayList" />
         <item itemvalue="Application.javaArrays" />
         <item itemvalue="Application.Exercise" />
       </list>

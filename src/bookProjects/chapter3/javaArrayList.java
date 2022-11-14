@@ -1,5 +1,8 @@
 package bookProjects.chapter3;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.Period;
 import java.util.*;
 
 public class javaArrayList {
@@ -93,6 +96,7 @@ public class javaArrayList {
         numbers.add(99);
         System.out.println(numbers);*/
 
+        /*
         List<String> list = new ArrayList<>();
         list.add("hawk");
         list.add("robin");
@@ -107,11 +111,20 @@ public class javaArrayList {
         v.set(1, 6);
         v.remove(0);
         for (int i: v) System.out.println(v);
+        */
 
-        List<Object> xy = new ArrayList<>();
+        List<Integer> ages = new ArrayList<>();
+        ages.add(Integer.parseInt("5"));
+        ages.add(Integer.valueOf("6"));
+        ages.add(7);
+//        ages.add(null);
+        for (Integer age : ages)
+            System.out.print(age);
+
+        List<String> xy = new ArrayList<>();
         xy.add("what");
-        xy.add(1);
-        xy.add(true);
+        xy.add("2");
+        xy.add("what");
         Collections.sort(xy);
 
     }
