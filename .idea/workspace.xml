@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/methods/returnTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/duck/GooseWatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/goose/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/goose/Gosling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/inland/BirdWatcherFromAfar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/shore/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/shore/BirdWatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookProjects/chapter4/pondProtected/swan/Swan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTablesMosh/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookProjects/chapter3/javaArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +58,13 @@
       <recent name="Homeworks.TestInstance.aquarium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javaArrayList">
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bookProjects.chapter3.Exercise" />
+  <component name="RunManager" selected="Application.HashTablesMosh.Main">
+    <configuration name="HashTablesMosh.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTablesMosh.Main" />
       <module name="Java_Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bookProjects.chapter3.*" />
+          <option name="PATTERN" value="HashTablesMosh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashTablesMosh.Main" />
         <item itemvalue="Application.javaArrayList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaDateAndTime" />
         <item itemvalue="Application.javaArrays" />
-        <item itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
   </component>
