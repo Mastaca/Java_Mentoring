@@ -1,6 +1,5 @@
-package HashTablesMosh;
+package hashTablesMosh;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HashTablesMosh/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashTablesMosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashTablesMosh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +58,7 @@
       <recent name="Homeworks.TestInstance.aquarium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashTablesMosh.Main">
-    <configuration name="HashTablesMosh.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashTablesMosh.Main" />
-      <module name="Java_Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HashTablesMosh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hashTablesMosh.Main">
     <configuration name="JavaDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bookProjects.chapter3.JavaDateAndTime" />
       <module name="Java_Mentoring" />
@@ -91,6 +78,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="constructorChainingExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashTablesMosh.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashTablesMosh.Main" />
+      <module name="Java_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashTablesMosh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,7 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashTablesMosh.Main" />
+        <item itemvalue="Application.hashTablesMosh.Main" />
         <item itemvalue="Application.javaArrayList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaDateAndTime" />
