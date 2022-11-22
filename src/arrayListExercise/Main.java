@@ -1,7 +1,5 @@
 package arrayListExercise;
 
-import java.util.*;
-
 public class Main {
 
     /**
@@ -21,16 +19,14 @@ public class Main {
     //TODO sa terminam problema si s-o testam pana MARTI
     //hint: Owner este cheie in HashMap (ID este unic)
 
-
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        Map<Owner, List<Car>> ownersCars = new HashMap<>();
         Menu menu = new Menu();
-
-        mainMenu(menu, scan, ownersCars);
+        menu.mainMenu();
     }
 
-    private static void mainMenu(Menu menu, Scanner scan, Map<Owner, List<Car>> ownersCars) {
+    /*private static void mainMenu(Menu menu,
+                                 Scanner scan,
+                                 Map<Owner, List<Car>> ownersCars) {
         menu.showMainMenu();
 
         System.out.print("Select an option: ");
@@ -51,9 +47,9 @@ public class Main {
                 exitApplication();
                 break;
         }
-    }
+    }*/
 
-    private static void selectOwner(Menu menu,
+    /*private static void selectOwner(Menu menu,
                                     Scanner scan,
                                     Map<Owner, List<Car>> ownersCars) {
         showOwners(ownersCars);
@@ -65,7 +61,18 @@ public class Main {
         }
     }
 
-    private static void ownerMenu(Menu menu,
+    private static void menuCreateOwner(Menu menu,
+                                        Scanner scan,
+                                        Map<Owner, List<Car>> ownersCars) {
+        System.out.println("Please enter the Owners name: ");
+        String name = scan.next();
+        Owner owner = new Owner(name);
+        ownersCars.put(owner, new ArrayList<>());
+        System.out.println("New owner created.");
+        mainMenu(menu, scan, ownersCars);
+    }*/
+
+    /*private static void ownerMenu(Menu menu,
                                   Scanner scan,
                                   Map<Owner, List<Car>> ownersCars,
                                   Owner selectedOwner) {
@@ -86,17 +93,6 @@ public class Main {
                 mainMenu(menu, scan, ownersCars);
                 break;
         }
-    }
-
-    private static void menuCreateOwner(Menu menu,
-                                        Scanner scan,
-                                        Map<Owner, List<Car>> ownersCars) {
-        System.out.println("Please enter the Owners name: ");
-        String name = scan.next();
-        Owner owner = new Owner(name);
-        ownersCars.put(owner, new ArrayList<>());
-        System.out.println("New owner created.");
-        mainMenu(menu, scan, ownersCars);
     }
 
     private static void showCarsList(Menu menu,
@@ -139,15 +135,15 @@ public class Main {
         List<Car> ownersCarsList = ownersCars.get(selectedOwner);
         ownersCarsList.remove(car);
         ownerMenu(menu, scan, ownersCars, selectedOwner);
-    }
+    }*/
 
-    public static void showOwners(Map<Owner, List<Car>> ownerListCars) {
+    /*public static void showOwners(Map<Owner, List<Car>> ownerListCars) {
         for (Owner owner : ownerListCars.keySet()) {
             System.out.println(owner.getId() + ". " + owner.getName());
         }
-    }
+    }*/
 
-    private static void exitApplication() {
+    /*private static void exitApplication() {
         System.out.println("Application is closed. Goodbye!");
-    }
+    }*/
 }

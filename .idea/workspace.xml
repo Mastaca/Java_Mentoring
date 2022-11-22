@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrayListExercise.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/CharacterType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Handgunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Rifleman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Shotgunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListExerciseDiana.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListExerciseEdi.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayListExercise.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayListExercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayListExercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayListExercise/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayListExercise/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayListExercise/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayListExercise/Owner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
