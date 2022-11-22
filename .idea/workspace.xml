@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d671166-5bbd-4ed0-a599-0bb6e5385eaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/arrayListExercise.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListExercise/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/CharacterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Handgunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Rifleman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Shotgunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashTablesMosh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashTablesMosh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +68,13 @@
       <recent name="Homeworks.TestInstance.aquarium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashTablesMosh.Main">
-    <configuration name="JavaDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bookProjects.chapter3.JavaDateAndTime" />
+  <component name="RunManager" selected="Application.arrayListExercise.Main">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Game" />
       <module name="Java_Mentoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bookProjects.chapter3.*" />
+          <option name="PATTERN" value="game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +88,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="constructorChainingExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayListExercise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayListExercise.Main" />
+      <module name="Java_Mentoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayListExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bookProjects.chapter3.javaArrays" />
-      <module name="Java_Mentoring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bookProjects.chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayListExercise.Main" />
+        <item itemvalue="Application.Game" />
         <item itemvalue="Application.hashTablesMosh.Main" />
         <item itemvalue="Application.javaArrayList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.JavaDateAndTime" />
-        <item itemvalue="Application.javaArrays" />
       </list>
     </recent_temporary>
   </component>
